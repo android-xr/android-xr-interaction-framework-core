@@ -30,4 +30,4 @@ To ensure maximum performance and cross-engine compatibility, AXRIF is split int
 ## How To Use:
 Developers can choose to integrate directly with the native library, but apps built in engines officially supported by Android XR are highly recommended to use the corresponding engine plugin for best compatibility.
 
-To learn more, see https://developer.android.com/develop/xr/axrif.
+To learn more, see https://developer.android.com/develop/xr/interaction-framework.
